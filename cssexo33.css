@@ -1,0 +1,24 @@
+div{
+width: 900px;
+height: 600px;
+border: solid 10px red;
+background: url(https://64.media.tumblr.com/a6afe417809d7c359b3dd73b5e4a1e1e/a7f463916cba1849-a5/s500x750/9455a31772f008b8dca0d949e7c3dd32973b2f1e.gif)  no-repeat;
+background-size: cover;
+margin: auto;
+margin-top: 100px;
+}
+img{
+    width: 100px;
+    height: 100px;
+}
+table{
+    margin: auto;
+    width: 100%;
+    text-align: center;
+    font-size: 50px;
+ border-collapse: collapse;
+}
+
+tr:hover{
+    background-color: aqua;
+}
